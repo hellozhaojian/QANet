@@ -111,3 +111,5 @@ Run tensorboard for visualisation.
 ```shell
 $ tensorboard --logdir=./
 ```
+
+## how to change for chinese
